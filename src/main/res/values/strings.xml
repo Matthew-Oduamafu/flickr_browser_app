@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Flickr Browser</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Flickr Photos</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_basic">Search Activity</string>
+    <string name="title_activity_photo_details">Photo Details</string>
+    <string name="downloaded_flickr_photo">Downloaded Flickr photo</string>
+    <string name="flickr_browse_photos">Flickr browse photos</string>
+    <string name="photo_title_text">Title: %s</string>
+    <string name="photo_tags_text">Tags: %s</string>
+    <string name="photo_author_text">Author: %s</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Enter photo tags</string>
+    <string name="no_photo_found_text">No match found.\n\nUse the search icon to search photos.</string>
+    <string name="search">Search</string>
+</resources>
